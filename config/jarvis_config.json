@@ -1,0 +1,35 @@
+{
+  "name": "JARVIS",
+  "version": "1.0.0",
+  "language": "en",
+  "status": "ready",
+  "features": [
+    "ai_design_assistant",
+    "online_design_tool",
+    "bilingual_support",
+    "color_recommendations",
+    "layout_suggestions",
+    "asset_management"
+  ],
+  "status_indicators": {
+    "speaking": "Green",
+    "listening": "Yellow",
+    "silent": "Red"
+  },
+  "supported_languages": ["en", "tr"],
+  "design_tools": {
+    "canvas": true,
+    "shapes": true,
+    "text": true,
+    "colors": true,
+    "layers": true,
+    "export": true
+  },
+  "ai_capabilities": {
+    "design_suggestions": true,
+    "color_recommendations": true,
+    "layout_assistance": true,
+    "creative_brainstorming": true,
+    "asset_management": true
+  }
+}
